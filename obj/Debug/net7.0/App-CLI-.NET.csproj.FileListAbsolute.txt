@@ -1,0 +1,15 @@
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\bin\Debug\net7.0\App-CLI-.NET.exe
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\bin\Debug\net7.0\App-CLI-.NET.deps.json
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\bin\Debug\net7.0\App-CLI-.NET.runtimeconfig.json
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\bin\Debug\net7.0\App-CLI-.NET.dll
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\bin\Debug\net7.0\App-CLI-.NET.pdb
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\App-CLI-.NET.csproj.AssemblyReference.cache
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\App-CLI-.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\App-CLI-.NET.AssemblyInfoInputs.cache
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\App-CLI-.NET.AssemblyInfo.cs
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\App-CLI-.NET.csproj.CoreCompileInputs.cache
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\App-CLI-.NET.dll
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\refint\App-CLI-.NET.dll
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\App-CLI-.NET.pdb
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\App-CLI-.NET.genruntimeconfig.cache
+C:\Users\lcoll\Escritorio\Coding\c#\App-CLI-.NET\obj\Debug\net7.0\ref\App-CLI-.NET.dll
