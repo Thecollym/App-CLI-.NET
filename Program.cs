@@ -110,7 +110,7 @@ class Program
                     Console.ReadKey();
                     break;
                 case "4":
-                    string url = "https://github.com/collym97"; // URL del repositorio de GitHub
+                    string url = "https://github.com/collym97?tab=repositories"; // URL del repositorio de GitHub
                     OpenUrl(url); // Abrir la URL en el navegador predeterminado
                     Console.WriteLine();
                     Console.WriteLine("Presione cualquier tecla para continuar...");
